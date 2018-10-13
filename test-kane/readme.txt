@@ -3,7 +3,7 @@ the program main class run EnginePoems.java from package com.kane.better.end. th
 
 3) Explain two cases where you learned something through experience (e.g. solving a
 production issue) and could not have learned about that problem through theoretical
-knowledge or reading through technical documentation.
+knowledge or reading through technical documentation. 
 
 R/
 - when there is one problem because there are two applications on the same web server that have the same library but with different versions this is cause of issues.
